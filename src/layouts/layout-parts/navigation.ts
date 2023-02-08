@@ -7,7 +7,7 @@ export const navigations = [
     name: "Profiles",
     icon: duotone.UserProfile,
     children: [
-      { name: "Profile", path: "/mentor/profile" },
+      { name: "Profile", path: "/profile" },
 
     ],
   },
@@ -16,7 +16,7 @@ export const navigations = [
     name: "Accounts",
     icon: duotone.Accounts,
     children: [
-      { name: "Account", path: "/mentor/account" },
+      { name: "Account", path: "/account" },
      ],
   },
 ];
